@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    background-color: #3498db;
+}
+.title .heading,.description{
+    margin-left: 25px;
+}
+.title .heading{
+    padding-top: 30px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+.title .description{
+    padding-bottom: 15px;
+}
+.second.part{
+    background-color: #bee5f7;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.second.part .quote{
+    margin: auto;
+    background-color: #2ecc71;
+    width: 45%;
+    border: 3px solid; 
+    border-color: green;
+}
+.second.part .quote .blockquote{
+padding: 20px 10px 10px 20px;
+}
+.second.part .quote .author{
+    padding-left: 530px;
+    padding-bottom: 20px;
+}
+.click.button{
+    background-color: #e74c3c;
+    margin: auto;
+    margin-top: 25px;
+    width: 25%;
+    padding-bottom: 30px;
+    border: 3px solid #b5040a;
+    border-radius: 20px;
+}
+.click.button .button.description{
+text-align: center;
+padding: 25px 0px;
+color: white;
+font-size: larger;  
+}
+.third.part{
+    background-color: #2c3e50;
+}
+.third.part .thirdpart.title{
+    padding-top:45px ;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    background-color: #2c3e50;
+    color: white;
+}
+.third.part .thirdpart.ps .p1{
+    padding-left: 25px;
+    padding-right: 46px;
+    padding-bottom: 20px;
+    color: white;
+}
+.third.part .thirdpart.ps .p2{
+    padding-left: 25px;
+    padding-right: 66px;
+    padding-bottom: 10px;
+    color: white;
+}
+.footer{
+    background-color: #1c2224;
+    padding-bottom: 15px;
+    padding-top: 7px;
+}

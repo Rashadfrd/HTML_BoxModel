@@ -1,0 +1,30 @@
+.margin{
+    margin: auto;
+    margin-top: 170px;
+    background-color: #fcba2b;
+    width: 40%;
+    height: 400px;
+}
+.margin .border{
+    background-color: yellow;
+    margin: 0px 17px 17px;
+    height: 91%;
+}
+.margin .border .padding{
+    background-color: greenyellow;
+    margin: 0px 17px 17px;
+    height: 91%;
+}
+.margin .border .padding .content{
+    background-color: lightblue;
+    margin: 0px 17px 17px;
+    height: 91%;
+
+}
+.margin .border .padding .content .image{
+    margin: 0px 17px 17px 17px;
+    height: 90%;
+    background-image: url(https://lh3.googleusercontent.com/G33pPwjkf1J1U5CFW3ZgSKot4urUpjje0t7xHvuSDvZMdU4Sa6soIZja541ClSY-Do7QcWaoySC2QpE=w1920-h942);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
